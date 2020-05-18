@@ -1,0 +1,1 @@
+# Determining Azure Workload Requirements (Scenario, just read the manual)
