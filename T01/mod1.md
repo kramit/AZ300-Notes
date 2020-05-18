@@ -14,6 +14,8 @@ Create Alert
 *demo log analytics*
 https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-portal
 
+https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet
+
 Log analytics
 
 ## Network Watcher
