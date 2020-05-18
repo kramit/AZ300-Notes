@@ -1,4 +1,4 @@
-## Microsoft Event
+## Microsoft Event with LOD labs
 
 https://tsfb.learnondemand.net
 
@@ -6,9 +6,7 @@ Register a new account and redeem the code provided by the instrutor
 
 Azure pass for each student is built into the labs
 
-
-
-There are 2 kinds of labs for the course
+## There are 2 kinds of labs for the course when using LOD labs
 
 ### Microsoft provided labs
 
