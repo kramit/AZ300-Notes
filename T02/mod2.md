@@ -55,3 +55,23 @@ https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickst
 
 Twitter demo
 
+## Practice labs
+
+Create Static Site
+https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-html
+
+Backup Website
+https://docs.microsoft.com/en-us/azure/app-service/manage-backup
+
+Blob trigger function
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function
+
+Timer Function
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function
+
+Blob events grid
+https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal
+
+Service bus quickstart
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal
+
