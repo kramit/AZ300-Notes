@@ -1,9 +1,10 @@
-Lab: Redeeming an Azure Pass
-Task 1: Sign up for a New Microsoft Account
+### Sign up for a New Microsoft Account
 
+'''
 Note: Microsoft Accounts (hotmail.com / outlook.com) can only have 1 Azure Pass assigned to them every 12 months. If you already have a Microsoft Account that is not associated with any other subscriptions (ie Work or School) then you can skip this task and proceed to task 2. If not then complete the steps. You MUST remember these credentials therefore it is recommended you note them down somewhere as go deploy is unable to redeem students login details for Azure or Microsoft Accounts. You may need a cell/mobile phone to verify you area human being and not a bot attempting to create 100's of accounts.
 
 Students must follow these instructions carefully as replacement Azure Pass codes cannot be issued. Should a problem occur with the Azure Pass then it is recommended that the student signs up for a Free Azure Trial Account but will require a Credit/Debit card for confirmation (the student will NOT be charged for the trial).
+'''
 
 1. Open your browser of choice.
 
