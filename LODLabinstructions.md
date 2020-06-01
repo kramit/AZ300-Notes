@@ -16,7 +16,7 @@ https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies
 
 These instructions have been intergrated into the LOD lab solution
 
-These labs require the use of an Azure Pass code, a unique Azure Pass code has been intergrated into the labs for each student
+These labs require the use of an Azure Pass code, a unique Azure Pass code has been provided for the labs for each student
 
 
 ### LOD written labs
