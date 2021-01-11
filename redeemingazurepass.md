@@ -8,11 +8,11 @@ Students must follow these instructions carefully as replacement Azure Pass code
 
 1. Open your browser of choice.
 
-1. Navigate to www.outlook.com and click Create free account
+1. Navigate to www.outlook.com and click Create free account (open with inprivate or you might screw up your live env)
 
 1. Complete the sign up process to create a new outlook account.
 
-1. Navigate to www.microsoftazurepass.com
+1. Navigate to www.microsoftazurepass.com (open with inprivate or you might screw up your live env, dont say I didnt warn you)
  
 1. Click Start
  
