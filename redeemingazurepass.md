@@ -13,7 +13,7 @@ Should a problem occur with the Azure Pass then it is recommended that the stude
 1. Open your browser of choice.
 
 
-**(open with inPrivate or you might screw up your live env if you have chached creds, if you do this and redeem the Azure pass to your live environment you cannot seperate it and the instructor does not have the ability to issue more Azure passes)**
+**(open with inPrivate or you might screw up your live env if you have cached creds, if you do this and redeem the Azure pass to your live environment you cannot seperate it and the instructor does not have the ability to issue more Azure passes)**
 
 1. Navigate to www.outlook.com and click Create free account  
 
